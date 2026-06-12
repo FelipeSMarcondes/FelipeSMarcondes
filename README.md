@@ -1,4 +1,4 @@
-##ARQUIVO DE DESENVOLVIMENTO DA NAG
+ARQUIVO DE DESENVOLVIMENTO DA NAG
 
 Repositório pessoal de projetos, estudos e pesquisas em tecnologia, inspirado em fictício Infra World, um universo de minha autoria.
 
